@@ -1,0 +1,18 @@
+//question 2
+
+JSON
+Output:
+
+{
+  Name: 'Annomyus',
+  age: '25',
+  qualificartion:"bachlore Degree",
+  experience: '5Years',
+  gender: 'male',
+  location: 'chennai',
+  language_Know: 'Englis , Tamil',
+  skill: 'Full Stack Developer'
+}
+
+
+
